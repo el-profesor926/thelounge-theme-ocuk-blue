@@ -2,7 +2,7 @@ A light, minimal blue theme for TheLounge IRC client
 
 ## Screenshots
 
-![https://github.com/mrbell1984/thelounge-theme-ocuk-blue/screenshot.png](https://github.com/mrbell1984/thelounge-theme-ocuk-blue/screenshot.png)
+![https://github.com/mrbell1984/thelounge-theme-ocuk-blue/blob/master/screenshot.png](https://github.com/mrbell1984/thelounge-theme-ocuk-blue/blob/master/screenshot.png)
 
 ## Installation
 
