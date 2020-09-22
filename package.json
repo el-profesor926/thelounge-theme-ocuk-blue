@@ -1,0 +1,35 @@
+{
+  "name": "thelounge-theme-ocuk-blue",
+  "version": "1.0.3",
+  "description": "A simple theme with blue colours",
+  "main": "package.json",
+  "thelounge": {
+    "name": "OcUK-Blue-Theme",
+    "type": "theme",
+    "css": "theme.css",
+    "themeColor": "#1c5780"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrbell1984/thelounge-theme-ocuk-blue/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbell1984/thelounge-theme-ocuk-blue.git"
+  },
+  "keywords": [
+    "ocuk",
+    "blue",
+    "thelounge",
+    "thelounge-theme",
+    "thelounge-ocuk"
+  ],
+  "bugs": {
+    "url": "https://github.com/mrbell1984/thelounge-theme-ocuk-blue/issues"
+  },
+  "devDependencies": {
+    "stylelint": "^13.1.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "scripts": {
+    "test": "stylelint theme.css"
+  }
+}
