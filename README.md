@@ -1,12 +1,20 @@
-A light, minimal blue theme for TheLounge IRC client
+<h1 align="center">
+	OcUK Blue theme for The Lounge Chat
+</h1>
 
-## Screenshots
+<h3 align="center">
+	An opinionated simple theme with Blue colours
+</h3>
 
-![https://github.com/mrbell1984/thelounge-theme-ocuk-blue/blob/master/screenshot.png](https://github.com/mrbell1984/thelounge-theme-ocuk-blue/blob/master/screenshot.png)
+<p align="center">
+	<img src="screenshot.png" alt="Screenshot of the OcUK BLue theme for The Lounge Chat" width="550">
+</p>
+
 
 ## Installation
 
-- When you have installed thelounge via NPM/Yarn:  
-```thelounge install thelounge-theme-ocuk-blue```  
-- When you have installed thelounge via source:  
-```node index.js install thelounge-theme-ocuk-blue```
+Install this theme with:
+
+```sh
+thelounge install thelounge-theme-ocuk-blue
+```
