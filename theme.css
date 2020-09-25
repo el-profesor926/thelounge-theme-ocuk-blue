@@ -29,7 +29,7 @@
 }
 
 ::-webkit-scrollbar-thumb:vertical {
-	background: hsl(192, 100%, 25%);
+	background: hsl(210, 100%, 20%);
 }
 
 ::-webkit-scrollbar-thumb:vertical:hover {
