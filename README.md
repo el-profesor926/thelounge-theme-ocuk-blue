@@ -7,6 +7,16 @@
 </h3>
 
 <p align="center">
+	<strong>
+		<a href="https://thelounge.chat/">Website</a>
+		•
+		<a href="https://thelounge.chat/docs">Docs</a>
+		•
+		<a href="https://demo.thelounge.chat/">Demo</a>
+	</strong>
+</p>
+
+<p align="center">
 	<img src="screenshot.png" alt="Screenshot of the OcUK BLue theme for The Lounge Chat" width="550">
 </p>
 
