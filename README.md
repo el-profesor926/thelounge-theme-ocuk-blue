@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	An simple theme with Blue colours
+	A simple theme with Blue colours
 </h3>
 
 <p align="center">
