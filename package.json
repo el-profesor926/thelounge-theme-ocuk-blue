@@ -10,10 +10,10 @@
     "themeColor": "#1c5780"
   },
   "license": "MIT",
-  "homepage": "https://github.com/mrbell1984/thelounge-theme-ocuk-blue/",
+  "homepage": "https://github.com/el-profesor926/thelounge-theme-ocuk-blue/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mrbell1984/thelounge-theme-ocuk-blue.git"
+    "url": "git+https://github.com/el-profesor926/thelounge-theme-ocuk-blue.git"
   },
   "keywords": [
     "ocuk",
@@ -23,7 +23,7 @@
     "thelounge-ocuk"
   ],
   "bugs": {
-    "url": "https://github.com/mrbell1984/thelounge-theme-ocuk-blue/issues"
+    "url": "https://github.com/el-profesor926/thelounge-theme-ocuk-blue/issues"
   },
   "devDependencies": {
     "stylelint": "^13.7.1",
