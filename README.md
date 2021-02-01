@@ -43,6 +43,6 @@ Install this theme with:
 thelounge install thelounge-theme-ocuk-blue
 ```
 
-## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/el-profesor926/thelounge-theme-ocuk-blue?style=plastic)
+## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/el-profesor926/thelounge-theme-ocuk-green?style=plastic) ![GitHub closed issues](https://img.shields.io/github/issues-closed/el-profesor926/thelounge-theme-ocuk-blue?color=orange&style=plastic)
 If you have an issue, change request or comment about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/thelounge-theme-ocuk-blue/issues">/thelounge-theme-ocuk-blue/issues</a>
