@@ -33,9 +33,12 @@
 </p>
 
 <p align="center">
-	<img src="screenshot.png" alt="Screenshot of the OcUK BLue theme for The Lounge Chat">
+	<img src="screenshot.png" alt="Screenshot of the OcUK Blue theme for The Lounge Chat">
 </p>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
+</p>
 
 ## Installation :sparkles:
 Install this theme with:
