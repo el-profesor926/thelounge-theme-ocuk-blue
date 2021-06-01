@@ -3,19 +3,8 @@
 </h1>
 
 <h3 align="center">
-	An elegant Blue theme with light colours
+	An Blue theme for the client
 </h3>
-
-<p align="center">
-	<strong>
-		<a href="https://thelounge.chat/">Website</a>
-		•
-		<a href="https://thelounge.chat/docs">Docs</a>
-		•
-		<a href="https://demo.thelounge.chat/">Demo</a><br />
-		<a href="https://www.npmjs.com/search?q=thelounge">More Themes</a>
-	</strong>
-</p>
 
 <p align="center">
 	<a href="https://demo.thelounge.chat/"><img
@@ -24,12 +13,9 @@
 	<a href="https://yarn.pm/thelounge"><img
 		alt="npm version"
 		src="https://img.shields.io/npm/v/thelounge.svg?colorA=333a41&maxAge=3600"></a>
-	<a href="https://github.com/thelounge/thelounge/actions"><img
-		alt="Build Status"
-		src="https://github.com/thelounge/thelounge/workflows/Build/badge.svg"></a>
-	<a href="https://npm-stat.com/charts.html?package=thelounge&from=2016-02-12"><img
+	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-ocuk-blue&from=2016-02-12"><img
 		alt="Total downloads on npm"
-		src="https://img.shields.io/npm/dy/thelounge.svg?colorA=333a41&colorB=007dc7&maxAge=3600&label=Downloads"></a>
+		src="https://img.shields.io/npm/dy/thelounge-theme-ocuk-blue.svg?colorA=333a41&colorB=007dc7&maxAge=3600&label=Downloads"></a>
 </p>
 
 <p align="center">
@@ -40,8 +26,8 @@
 <a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
 </p>
 
-## Installation :sparkles:
-Install this theme with:
+## Installation :sparkles: (https://bit.ly/3i9eMEb)
+Install this theme with npm:
 
 ```sh
 thelounge install thelounge-theme-ocuk-blue
