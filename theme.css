@@ -29,7 +29,7 @@
 }
 
 ::-webkit-scrollbar-thumb:vertical {
-	background: hsl(210, 100%, 20%);
+	background: hsl(192, 100%, 25%);
 }
 
 ::-webkit-scrollbar-thumb:vertical:hover {
@@ -43,6 +43,10 @@
 html {
 	scrollbar-color: hsl(192, 100%, 25%) hsla(192, 100%, 25%, 10%);
 	scrollbar-width: thin;
+}
+
+.logo-inverted {
+  display: none;
 }
 
 .window .logo,
